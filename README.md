@@ -9,7 +9,8 @@
 #### Classes:
 - 500 hour [Data Science Bootcamp with Jovian](https://jovian.ai/learn/zero-to-data-analyst-bootcamp)
 #### Work Experience:
-- Research Scientist, Integrated Nanophotonics: Columbia University  (2016 to Present)
+- Assistant Professor, Nanofabrication Facility Director, CUNY Advanced Science Research Center (2022 - present)
+- Research Scientist, Integrated Nanophotonics: Columbia University  (2016 - 2022)
 - Research Scientist: Case Western Reserve University  (2015 - 2016) 
 - Instructor of Physics: Cornell University (2014)
 
