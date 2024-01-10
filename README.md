@@ -4,7 +4,7 @@
 - [Jovian Profile](https://jovian.ai/samantha-roberts/overview)
 #### Education:
 - Cornell University, PhD, Experimental Solid State Physics (2014)
-- Stony Brook University, BS Physics, Minor Mathematics (2005)
+- Stony Brook University, BS Physics (major), Mathematics (minor) (2005)
 - Nassau Community College, AS Computer Science (2000)
 #### Classes:
 - 500 hour [Data Science Bootcamp with Jovian](https://jovian.ai/learn/zero-to-data-analyst-bootcamp)
