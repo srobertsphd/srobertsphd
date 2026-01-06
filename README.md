@@ -2,22 +2,21 @@
 
 I’m an AI developer and applied systems builder with a foundation in solid-state physics and nanoscience.
 
-I build agentic AI platforms for complex technical organizations, with an emphasis on retrieval-augmented and tool-using systems rather than standalone models. My work focuses on architectures that combine multiple forms of retrieval (vector, structured, hybrid), augmented generation, MCP-style service boundaries, and automation pipelines that can be deployed, evaluated, and **operated with clear grounding, traceability, and constraints**.
+I build agentic AI platforms for complex technical organizations, with an emphasis on retrieval-augmented and tool-using systems rather than standalone models. My work focuses on architectures that combine multiple forms of retrieval (vector, structured, hybrid), augmented generation, MCP-style service boundaries, and automation pipelines that can be deployed, evaluated, and operated with clear grounding, traceability, and constraints.
 
 Core technical areas include document ingestion and normalization, chunking and metadata strategy, hybrid retrieval, evaluation harnesses for retrieval and generation quality, and agent workflows that integrate external tools and databases. I am especially interested in systems where correctness, traceability, and operational fit are critical.
 
 I care about building things that matter. I strongly prefer open-source solutions when they are the right tool, and I believe shared infrastructure and community-driven code are essential for scaling technical knowledge beyond individual organizations.
 
-
 For concrete examples, see the pinned repositories and my portfolio.
 ---
 
 ## What I build
-- 
-- **RAG + knowledge systems** (document pipelines, chunking/metadata strategy, evals, retrieval UX)
-- **Hybrid retrieval** (vector + structured DB queries + citations)
-- **Applied automation** (ops dashboards, billing/usage analytics, workflow tooling)
-- **Interfaces people actually use** (Streamlit/FastAPI prototypes → maintainable services)
+
+- **Agentic AI workflows** -- multi-step, tool-using systems that coordinate retrieval, reasoning, automation, and external services to solve real operational problems.
+- **Knowledge and retrieval infrastructure** -- document ingestion pipelines, chunking and metadata strategy, hybrid retrieval across unstructured and structured sources, and evaluation harnesses for retrieval and generation quality.
+- **End-to-end AI applications** -- from data ingestion and orchestration through deployment, monitoring, and iteration, with architectures designed for maintainability and real operational constraints.
+- **Data and knowledge aggregation** — analytics pipelines, structured data models, and dashboards that surface operational insight and connect system behavior back to measurable outcomes.
 
 ---
 
