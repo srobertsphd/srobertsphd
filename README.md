@@ -1,10 +1,10 @@
 ## Samantha Roberts PhD
 
-I’m an AI developer and applied systems builder with a foundation in solid-state physics and nanoscience.
-
-I build agentic AI platforms for complex technical organizations, focusing on architectures and automation pipelines that can be evaluated, deployed and operated with clear grounding, traceability, and constraints.
+Generative AI engineer solving complex, real-world problems using physics-based reasoning and deep operational experience.
 
 I care about building things that matter. I strongly prefer open-source solutions when they are the right tool, and I believe shared infrastructure and community-driven code are essential for scaling technical knowledge beyond individual organizations.
+
+See my website at [samantharoberts.com](https://samantharoberts.com) to learn more about me and see some project descriptions
 
 ---
 
@@ -14,7 +14,6 @@ I care about building things that matter. I strongly prefer open-source solution
 - **Knowledge and retrieval infrastructure** — document ingestion pipelines, chunking and metadata strategy, hybrid retrieval across unstructured and structured sources, and evaluation for retrieval and generation quality.
 - **Data and knowledge aggregation** — analytics pipelines, structured data models, and dashboards that surface operational insight and connect system behavior back to measurable outcomes.
 - **End-to-end AI applications** — systems built from ingestion and orchestration through deployment, monitoring, and iteration, with architectures designed for maintainability and real operational constraints.
-
 
 ---
 
@@ -33,17 +32,10 @@ I care about building things that matter. I strongly prefer open-source solution
   Website context: https://www.samantharoberts.com/portfolio/full-stack
 
 ---
-
-### What I’m currently learning
-- Evaluation standards for retrieval and LLM generation quality 
-- Knowledge graph integration for RAG pipelines supporting complex taxonomies and ontologies.
-- Productionizing doc pipelines: event drive architecture and deployments
-
----
-
 ### Contact
 - Website: https://www.samantharoberts.com
 - LinkedIn: https://www.linkedin.com/in/samantha-roberts-phd
+
 
 
 <!--
