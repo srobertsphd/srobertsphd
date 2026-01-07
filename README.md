@@ -11,11 +11,8 @@ I care about building things that matter. I strongly prefer open-source solution
 ### What I build
 
 - **Agentic AI workflows** — multi-step, tool-using systems that coordinate retrieval, reasoning, automation, and external services to solve real operational problems.
-
 - **Knowledge and retrieval infrastructure** — document ingestion pipelines, chunking and metadata strategy, hybrid retrieval across unstructured and structured sources, and evaluation for retrieval and generation quality.
-
 - **Data and knowledge aggregation** — analytics pipelines, structured data models, and dashboards that surface operational insight and connect system behavior back to measurable outcomes.
-
 - **End-to-end AI applications** — systems built from ingestion and orchestration through deployment, monitoring, and iteration, with architectures designed for maintainability and real operational constraints.
 
 
