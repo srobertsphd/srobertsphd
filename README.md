@@ -1,6 +1,6 @@
 ## Samantha Roberts PhD
 
-Generative AI engineer solving complex, real-world problems using physics-based reasoning and deep operational experience.
+Generative AI engineer solving complex, real-world problems using physics-based reasoning and hands-on operational experience.
 
 I care about building things that matter. I strongly prefer open-source solutions when they are the right tool, and I believe shared infrastructure and community-driven code are essential for scaling technical knowledge beyond individual organizations.
 
@@ -19,7 +19,6 @@ See my website at [samantharoberts.com](https://samantharoberts.com) to learn mo
 
 ### Featured projects
 - **Nanobot-CORE** — document ingestion + pgvector RAG platform  
-  (Docling → chunking → embeddings → retrieval → LLM)    
   Repo: https://github.com/srobertsphd/nanobot-core  
   Website context: https://www.samantharoberts.com/portfolio/labnetwork-nanobot
 
