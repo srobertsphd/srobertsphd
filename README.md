@@ -34,8 +34,8 @@ I care about building things that matter. I strongly prefer open-source solution
 
 ---
 
-### What I’m exploring next
-- Evaluation standards for retrieval quality 
+### What I’m currently learning
+- Evaluation standards for retrieval and LLM generation quality 
 - Knowledge graph integration for RAG pipelines supporting complex taxonomies and ontologies.
 - Productionizing doc pipelines: event drive architecture and deployments
 
