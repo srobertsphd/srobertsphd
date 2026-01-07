@@ -22,7 +22,7 @@ I care about building things that matter. I strongly prefer open-source solution
 - **Nanobot-CORE** — document ingestion + pgvector RAG platform  
   (Docling → chunking → embeddings → retrieval → LLM)    
   Repo: https://github.com/srobertsphd/nanobot-core  
-  Website context:https://www.samantharoberts.com/portfolio/labnetwork-nanobot
+  Website context: https://www.samantharoberts.com/portfolio/labnetwork-nanobot
 
 - **RAG-bot** — customizable RAG chatbot for technical PDF manuals   
   Repo: https://github.com/srobertsphd/RAG-bot   
