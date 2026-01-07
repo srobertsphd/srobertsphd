@@ -19,16 +19,16 @@ I care about building things that matter. I strongly prefer open-source solution
 ---
 
 ### Featured projects
-- **Nanobot-CORE** — document ingestion + pgvector RAG foundation  
+- **Nanobot-CORE** — document ingestion + pgvector RAG platform  
   (Docling → chunking → embeddings → retrieval → LLM)    
   Repo: https://github.com/srobertsphd/nanobot-core  
   Website context:https://www.samantharoberts.com/portfolio/labnetwork-nanobot
 
-- **RAG-bot** — customizable RAG chatbot for PDF manuals   
+- **RAG-bot** — customizable RAG chatbot for technical PDF manuals   
   Repo: https://github.com/srobertsphd/RAG-bot   
   Website context: https://www.samantharoberts.com/portfolio/ragbot
 
-- **Full Stack Management App** - Django platform for Member and financial management  
+- **Dragon-Ops** - Full stack Django platform for member records and financial management  
   Repo: https://github.com/srobertsphd/dragon-ops  
   Website context: https://www.samantharoberts.com/portfolio/full-stack
 
